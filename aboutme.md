@@ -4,7 +4,11 @@ title: About me
 subtitle: Jhixon Macías
 ---
 
-Actualmente soy estudiante de la maestría en ciencias de matemática pura del [Departamento de matemáticas de la Universidad de Puerto Rico en Mayagüez](https://www.uprm.edu/math/). Obtuve mi licenciatura en matemáticas de la [Facultad de Ciencias Naturalesy Matemáticas en la Escuela Superior Politécnica del Litoral](https://www.fcnm.espol.edu.ec/es).
+Actualmente soy estudiante de la maestría en ciencias de matemática pura del [Departamento de matemáticas de la Universidad de Puerto Rico en Mayagüez](https://www.uprm.edu/math/). 
+
+Obtuve mi licenciatura en matemáticas de la [Facultad de Ciencias Naturalesy Matemáticas en la Escuela Superior Politécnica del Litoral](https://www.fcnm.espol.edu.ec/es).
+
+
 
 Algunos enlaces de posible interés:
 

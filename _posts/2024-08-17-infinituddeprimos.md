@@ -7,7 +7,7 @@ mathjax: true
 author: Jhixon Macías
 ---
 
-En este, mi primer post, quiero invitarles a leer la demostración topológica de la infinitud de los números primos presentada [aquí](https://math.colgate.edu/~integers/y47/y47.pdf).
+En este, mi primer post, quiero invitarte a leer la demostración topológica de la infinitud de los números primos presentada [aquí](https://math.colgate.edu/~integers/y47/y47.pdf).
 
 ###### Ejercicio propuesto
 

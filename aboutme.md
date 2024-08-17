@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Jhixon Macías
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Saludos, soy jhixon.
+Actualmente soy estudiante de la maestría en ciencias de matemática pura del [Departamento de matemáticas de la Universidad de Puerto Rico en Mayagüez](https://www.uprm.edu/math/). Obtuve mi licenciatura en matemáticas de la [Facultad de Ciencias Naturalesy Matemáticas en la Escuela Superior Politécnica del Litoral](https://www.fcnm.espol.edu.ec/es).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Algunos enlaces de posible interés:
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57224728340)
+- [Google Scholar](https://scholar.google.es/citations?hl=es&user=1OG3b-8AAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Jhixon-Macias)
+- [Orcid](https://orcid.org/0000-0002-9353-5850)
+- [Linkedin](https://www.linkedin.com/in/jhixon-macias-1a430a153)

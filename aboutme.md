@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Sobre mi
 subtitle: Jhixon Macías
 ---
 

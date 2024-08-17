@@ -11,5 +11,5 @@ En este, mi primer post, quiero invitarles a leer la demostración topológica d
 
 ###### Ejercicio propuesto
 
-- Considere el espacio topológico $$X=(\mathbb{N},\tau)$$ donde $$\tau$$ es la topología generada por la base $$\beta:=\{\sigma_n: n\in\mathbb{N}\}$$ y $$\sigma_n:=\{m\in\mathbb{N}: \gcd(n,m)=1\}$$. Encuentre todos los puntos que son topológicamente indistingibles en $$X$$.
+Considere el espacio topológico $$X=(\mathbb{N},\tau)$$ donde $$\tau$$ es la topología generada por la base $$\beta:=\{\sigma_n: n\in\mathbb{N}\}$$ y $$\sigma_n:=\{m\in\mathbb{N}: \gcd(n,m)=1\}$$. Encuentre todos los puntos que son topológicamente indistinguibles en $$X$$.
 

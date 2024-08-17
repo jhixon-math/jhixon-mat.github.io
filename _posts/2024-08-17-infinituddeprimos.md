@@ -11,5 +11,5 @@ En este, mi primer post, quiero invitarte a leer la demostración topológica de
 
 ###### Ejercicio propuesto
 
-Considere el espacio topológico $$X=(\mathbb{N},\tau)$$ donde $$\tau$$ es la topología generada por la base $$\beta:=\{\sigma_n: n\in\mathbb{N}\}$$ y $$\sigma_n:=\{m\in\mathbb{N}: \gcd(n,m)=1\}$$. Determine cuándo dos puntos son indistinguibles en $$X$$.
+Considere el espacio topológico $$X=(\mathbb{N},\tau)$$ donde $$\tau$$ es la topología generada por la base $$\beta:=\{\sigma_n: n\in\mathbb{N}\}$$ y $$\sigma_n:=\{m\in\mathbb{N}: \gcd(n,m)=1\}$$. Determine cuándo dos puntos son topológicamente indistinguibles en $$X$$.
 
